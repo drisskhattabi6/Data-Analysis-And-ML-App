@@ -6,7 +6,7 @@
 The objective was to create a desktop application using the 'CustomTkinter' framework to simplify the Machine Learning process (such as: ✅importing datasets, ✅visualizing data, ✅pre-processing data, ✅applying different machine learning algorithms , ✅validation of the model and ✅export of results📊).
 
 ---------------------
-[![Vidéo de démonstration]()](ModelMaster.mp4)
+[![Demo video](screenshots/1.PNG)](ModelMaster.mp4)
 
 
 ---------------------
