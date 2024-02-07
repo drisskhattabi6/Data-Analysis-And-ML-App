@@ -1,5 +1,5 @@
 # ML-Toolkits-App
-🚀 Project "simplify the Machine Learning process with a desktop app by 'CustomTkinter'".
+🚀 This Project is for "simplify the Machine Learning process with a desktop app" .
 
 #### 🌟This project carried out in collaboration with "Mohamed Amine Sabbahi" and "Ayman Boufarhi". Under the mentorship of the amazing Prof "Sanae Khali Issa".
 
