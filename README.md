@@ -13,7 +13,15 @@ The objective was to create a desktop application using the 'CustomTkinter' fram
   - ✅export of results📊
 
 ---------------------
-[![Demo video](screenshots/1.PNG)](ModelMaster.mp4)
+![Demo video](screenshots/1.PNG)
+
+![Demo video](screenshots/2.PNG)
+
+![Demo video](screenshots/3.PNG)
+
+![Demo video](screenshots/4.PNG)
+
+![Demo video](screenshots/5.PNG)
 
 
 ---------------------
