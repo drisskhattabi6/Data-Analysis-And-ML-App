@@ -33,11 +33,11 @@ This application aims to provide a practical experience in programming and machi
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/amine-sabbahi/Python-Data-Analysis-App.git
+    git clone https://github.com/drisskhattabi6/Data-Analysis-And-ML-App.git
     ```
 2. Navigate to the project directory:
     ```sh
-    cd Python-Data-Analysis-App
+    cd Data-Analysis-And-ML-App
     ```
 3. Install the required dependencies:
     ```sh
