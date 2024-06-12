@@ -1,0 +1,13 @@
+CTkMessagebox==2.5
+CTkMessagebox==2.5
+customtkinter==5.2.2
+fpdf==1.7.2
+joblib==1.3.2
+matplotlib==3.8.3
+numpy==1.26.4
+pandas==2.2.2
+Pillow==10.3.0
+scikit_learn==1.4.1.post1
+seaborn==0.13.2
+tkPDFViewer==0.1
+tkvideo==0.1
