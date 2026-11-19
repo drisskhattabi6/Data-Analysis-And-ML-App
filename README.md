@@ -4,8 +4,6 @@
 
 The GUI is built with **CustomTkinter**. Data handling uses **pandas**, visualizations use **Matplotlib** and **Seaborn**, and machine-learning workflows use **scikit-learn**.
 
-> This is an educational analysis tool. Evaluate models on appropriate data and do not treat their outputs as professional, medical, financial, or other high-stakes advice.
-
 ## Features
 
 ### Dataset import and inspection
@@ -63,13 +61,9 @@ Data-Analysis-And-ML-App/
 │       ├── app_window.py
 │       ├── utils.py
 │       └── pages/
-├── icons/
-├── images/
+├── assets/
 ├── screenshots/
 ├── results/                 # Created automatically for generated plots
-├── documentation.pdf        # Optional in-app documentation
-├── ML ToolKit.mp4          # Optional in-app tutorial
-├── app.py
 ├── run.py
 ├── requirements.txt
 └── README.md
